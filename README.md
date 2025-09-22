@@ -26,7 +26,7 @@ insights using visual analysis.
 
 # Week-wise Implementation Plan
 # Milestone 1: Data Foundation and Cleaning
-# Week 1: Project Initialization and Dataset Setup
+# Week 1: Project Initialization and Dataset Setup:
 • Define goals, KPIs, and workflow
 • Load CSVs using pandas
 • Explore schema, types, size, and nulls
