@@ -1,4 +1,4 @@
- # Info_Intern_Project
+ # AirFlyInsights
  # AirFly Insights: Data Visualization and Analysis of Airline Operations
                      
 # Project Statement:
