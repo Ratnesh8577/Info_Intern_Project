@@ -31,8 +31,6 @@ insights using visual analysis.
 • Load CSVs using pandas
 • Explore schema, types, size, and nulls
 • Perform sampling and memory optimizations
-# Week-wise Implementation Plan
-
 # Week 2: Preprocessing and Feature Engineering
 • Handle nulls in delay and cancellation columns
 • Create derived features: Month, Day of Week, Hour, Route
@@ -48,7 +46,6 @@ Deliverables:
 • Top airlines, routes, and busiest months
 • Flight distribution by day, time, and airport
 • Plot bar charts, histograms, boxplots, and line plots
-
 # Week 4: Delay Analysis – Airline and Weather
 • Compare delay causes by airline
 • Explore carrier delays, weather delays, NAS delays
@@ -57,7 +54,7 @@ Deliverables:
 • Set of visualizations (minimum 8)
 • Observations on peak delays and top delay-prone carriers
 
-#Milestone 3: Route, Cancellation, and Seasonal Insights
+# Milestone 3: Route, Cancellation, and Seasonal Insights
 # Week 5: Route and Airport-Level Analysis
 • Top 10 origin-destination pairs
 • Delay heatmaps by airport and route
